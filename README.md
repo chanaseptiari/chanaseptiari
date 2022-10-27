@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chanaseptiari
 - 👀 I’m interested in information technology
+- 🌱 I’m currently learning Linux Administrator, Cybersecurity, Network Administrator
 
 <!---
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
