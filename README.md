@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Linux Administrator, Cybersecurity, Network Administrator
 
 <!---
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64fcaba75ce9f4ca58aa1217?variant=dark)](https://roadmap.sh)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
